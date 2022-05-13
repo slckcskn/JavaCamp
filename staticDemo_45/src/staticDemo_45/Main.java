@@ -14,7 +14,6 @@ public class Main {
 		
 		DatabaseHelper.Crud.update();
 
-		System.out.println("deneme");
 
 	}
 
